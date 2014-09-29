@@ -1,7 +1,7 @@
 name: polymer_track
 description: A sample Polymer application
 dependencies:
-    polymer: ">=0.12.0 <0.13.0"
+    polymer: "any"
 transformers:
 - polymer:
     entry_points: web/polymer_track.html
